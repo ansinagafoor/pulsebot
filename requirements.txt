@@ -1,0 +1,6 @@
+# Pulse Bot — Python dependencies
+# The bot intentionally uses only the standard library so there are
+# no third-party runtime packages to install.
+#
+# Dev / CI extras (optional)
+pytest>=8.0
