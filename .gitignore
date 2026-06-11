@@ -58,6 +58,3 @@ env/
 *.swo
 *~
 .DS_Store
-
-# Project specific
-summary.txt
